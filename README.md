@@ -71,11 +71,18 @@ Prerequisites: [Docker](https://docs.docker.com/get-docker/) installed on your m
 
 ## 📸 Screenshots
 
-*(Add screenshots of your application here)*
-- Dashboard View
-- Roadmap Generation form
-- Detailed Milestone Tracking
-- Streak and Progress indicators
+### Register & Login
+![Register Page](screenshots/1_register_page.png)
+
+### Generate a Roadmap
+![Generate Page](screenshots/3_generate_page.png)
+
+### Dashboard & Streaks
+![Dashboard View](screenshots/2_dashboard_initial.png)
+![Dashboard Streak Verified](screenshots/5_dashboard_streak_verified.png)
+
+### Interactive Roadmap Detail
+![Roadmap Detail](screenshots/4_roadmap_detail.png)
 
 ## 🌐 Live Demo
 
