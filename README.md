@@ -86,5 +86,4 @@ Prerequisites: [Docker](https://docs.docker.com/get-docker/) installed on your m
 
 ## 🌐 Live Demo
 
-*(Placeholder for Vercel deployment link)*
-[View Live Project](https://skillpath.vercel.app)
+https://skillpath-tan.vercel.app/
