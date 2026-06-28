@@ -1,0 +1,43 @@
+﻿Folder PATH listing for volume New Volume
+Volume serial number is 00000210 7658:9B8B
+S:\JAVASCRIPT PROJECTS\SKILLPATH\SKILLPATH-FRONTEND\SRC
+|   App.jsx
+|   counter.ts
+|   index.css
+|   main.ts
+|   style.css
+|   
++---assets
+|       hero.png
+|       typescript.svg
+|       vite.svg
+|       
++---components
+|       Footer.jsx
+|       MilestoneItem.jsx
+|       Navbar.jsx
+|       ProgressChart.jsx
+|       ProtectedRoute.jsx
+|       RoadmapCard.jsx
+|       
++---context
+|       AuthContext.jsx
+|       
++---hooks
+|       useAuth.js
+|       useRoadmap.js
+|       
++---pages
+|       Dashboard.jsx
+|       Home.jsx
+|       Login.jsx
+|       Profile.jsx
+|       Register.jsx
+|       RoadmapDetail.jsx
+|       
+\---services
+        api.js
+        authService.js
+        progressService.js
+        roadmapService.js
+        

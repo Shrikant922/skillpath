@@ -1,0 +1,79 @@
+﻿Folder PATH listing for volume New Volume
+Volume serial number is 00000207 7658:9B8B
+S:\JAVASCRIPT PROJECTS\SKILLPATH\SKILLPATH-BACKEND
+|   .gitattributes
+|   .gitignore
+|   HELP.md
+|   mvnw
+|   mvnw.cmd
+|   pom.xml
+|   
++---.mvn
+|   \---wrapper
+|           maven-wrapper.properties
+|           
+\---src
+    +---main
+    |   +---java
+    |   |   \---com
+    |   |       \---skillpath
+    |   |           |   SkillpathBackendApplication.java
+    |   |           |   
+    |   |           +---config
+    |   |           |       CorsConfig.java
+    |   |           |       JwtConfig.java
+    |   |           |       MailConfig.java
+    |   |           |       SecurityConfig.java
+    |   |           |       WebClientConfig.java
+    |   |           |       
+    |   |           +---controller
+    |   |           |       AuthController.java
+    |   |           |       MilestoneController.java
+    |   |           |       ProgressController.java
+    |   |           |       RoadmapController.java
+    |   |           |       UserController.java
+    |   |           |       
+    |   |           +---dto
+    |   |           |   +---request
+    |   |           |   |       LoginRequest.java
+    |   |           |   |       RegisterRequest.java
+    |   |           |   |       RoadmapRequest.java
+    |   |           |   |       
+    |   |           |   \---response
+    |   |           |           ApiResponse.java
+    |   |           |           AuthResponse.java
+    |   |           |           RoadmapResponse.java
+    |   |           |           UserResponse.java
+    |   |           |           
+    |   |           +---entity
+    |   |           |       Milestone.java
+    |   |           |       ProgressLog.java
+    |   |           |       Roadmap.java
+    |   |           |       User.java
+    |   |           |       
+    |   |           +---repository
+    |   |           |       MilestoneRepository.java
+    |   |           |       ProgressLogRepository.java
+    |   |           |       RoadmapRepository.java
+    |   |           |       UserRepository.java
+    |   |           |       
+    |   |           \---service
+    |   |                   AuthService.java
+    |   |                   EmailService.java
+    |   |                   GeminiService.java
+    |   |                   MilestoneService.java
+    |   |                   ProgressService.java
+    |   |                   RoadmapService.java
+    |   |                   UserService.java
+    |   |                   
+    |   \---resources
+    |       |   application.properties
+    |       |   
+    |       +---static
+    |       \---templates
+    \---test
+        \---java
+            \---com
+                \---skillpath
+                        SkillpathBackendApplicationTests.java
+                        

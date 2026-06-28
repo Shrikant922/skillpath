@@ -1,0 +1,18 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!target/*.jar
+*.class
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Git ###
+.git/
+.gitignore
+
+### Temp ###
+logs/
+*.log
