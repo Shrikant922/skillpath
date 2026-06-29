@@ -58,7 +58,7 @@ Prerequisites: [Docker](https://docs.docker.com/get-docker/) installed on your m
    npm run dev
    ```
 
-## 🔌 API Endpoints
+## 🔌 API Endpoints : 
 
 | Method | Endpoint | Description | Auth Required |
 | :--- | :--- | :--- | :---: |
